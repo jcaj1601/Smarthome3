@@ -1,0 +1,132 @@
+DISTRITO_x,BARRIO
+01. Centro,011. Palacio
+01. Centro,012. Embajadores
+01. Centro,013. Cortes
+01. Centro,014. Justicia
+01. Centro,015. Universidad
+01. Centro,016. Sol
+02. Arganzuela,021. Imperial
+02. Arganzuela,022. Acacias
+02. Arganzuela,023. Chopera
+02. Arganzuela,024. Legazpi
+02. Arganzuela,025. Delicias
+02. Arganzuela,026. Palos de la Frontera
+02. Arganzuela,027. Atocha
+03. Retiro,031. Pacífico
+03. Retiro,032. Adelfas
+03. Retiro,033. Estrella
+03. Retiro,034. Ibiza
+03. Retiro,035. Los Jerónimos
+03. Retiro,036. Niño Jesús
+04. Salamanca,041. Recoletos
+04. Salamanca,042. Goya
+04. Salamanca,043. Fuente del Berro
+04. Salamanca,044. Guindalera
+04. Salamanca,045. Lista
+04. Salamanca,046. Castellana
+05. Chamartín,051. El Viso
+05. Chamartín,052. Prosperidad
+05. Chamartín,053. Ciudad Jardín
+05. Chamartín,054. Hispanoamérica
+05. Chamartín,055. Nueva España
+05. Chamartín,056. Castilla
+06. Tetuán,061. Bellas Vistas
+06. Tetuán,062. Cuatro Caminos
+06. Tetuán,063. Castillejos
+06. Tetuán,064. Almenara
+06. Tetuán,065. Valdeacederas
+06. Tetuán,066. Berruguete
+07. Chamberí,071. Gaztambide
+07. Chamberí,072. Arapiles
+07. Chamberí,073. Trafalgar
+07. Chamberí,074. Almagro
+07. Chamberí,075. Ríos Rosas
+07. Chamberí,076. Vallehermoso
+08. Fuencarral-El Pardo,081. El Pardo
+08. Fuencarral-El Pardo,082. Fuentelarreina
+08. Fuencarral-El Pardo,083. Peñagrande
+08. Fuencarral-El Pardo,084. Pilar
+08. Fuencarral-El Pardo,085. La Paz
+08. Fuencarral-El Pardo,086. Valverde
+08. Fuencarral-El Pardo,087. Mirasierra
+08. Fuencarral-El Pardo,088. El Goloso
+09. Moncloa-Aravaca,091. Casa de Campo
+09. Moncloa-Aravaca,092. Argüelles
+09. Moncloa-Aravaca,093. Ciudad Universitaria
+09. Moncloa-Aravaca,094. Valdezarza
+09. Moncloa-Aravaca,095. Valdemarín
+09. Moncloa-Aravaca,096. El Plantío
+09. Moncloa-Aravaca,097. Aravaca
+10. Latina,101. Los Cármenes
+10. Latina,102. Puerta del Ángel
+10. Latina,103. Lucero
+10. Latina,104. Aluche
+10. Latina,105. Campamento
+10. Latina,106. Cuatro Vientos
+10. Latina,107. Águilas
+11. Carabanchel,111. Comillas
+11. Carabanchel,112. Opañel
+11. Carabanchel,113. San Isidro
+11. Carabanchel,114. Vista Alegre
+11. Carabanchel,115. Puerta Bonita
+11. Carabanchel,116. Buenavista
+11. Carabanchel,117. Abrantes
+12. Usera,121. Orcasitas
+12. Usera,122. Orcasur
+12. Usera,123. San Fermín
+12. Usera,124. Almendrales
+12. Usera,125. Moscardó
+12. Usera,126. Zofío
+12. Usera,127. Pradolongo
+13. Puente de Vallecas,131. Entrevías
+13. Puente de Vallecas,132. San Diego
+13. Puente de Vallecas,133. Palomeras Bajas
+13. Puente de Vallecas,134. Palomeras Sureste
+13. Puente de Vallecas,135. Portazgo
+13. Puente de Vallecas,136. Numancia
+14. Moratalaz,141. Pavones
+14. Moratalaz,142. Horcajo
+14. Moratalaz,143. Marroquina
+14. Moratalaz,144. Media Legua
+14. Moratalaz,145. Fontarrón
+14. Moratalaz,146. Vinateros
+15. Ciudad Lineal,151. Ventas
+15. Ciudad Lineal,152. Pueblo Nuevo
+15. Ciudad Lineal,153. Quintana
+15. Ciudad Lineal,154. La Concepción
+15. Ciudad Lineal,155. San Pascual
+15. Ciudad Lineal,156. San Juan Bautista
+15. Ciudad Lineal,157. Colina
+15. Ciudad Lineal,158. Atalaya
+15. Ciudad Lineal,159. Costillares
+16. Hortaleza,161. Palomas
+16. Hortaleza,162. Piovera
+16. Hortaleza,163. Canillas
+16. Hortaleza,164. Pinar del Rey
+16. Hortaleza,165. Apóstol Santiago
+16. Hortaleza,166. Valdefuentes
+17. Villaverde,"171. Villaverde Alto, Casco Histórico de Villaverde"
+17. Villaverde,172. San Cristóbal
+17. Villaverde,173. Butarque
+17. Villaverde,174. Los Rosales
+17. Villaverde,175. Ángeles
+18. Villa de Vallecas,181. Casco Histórico de Vallecas
+18. Villa de Vallecas,182. Santa Eugenia
+18. Villa de Vallecas,183. Ensanche de Vallecas
+19. Vicálvaro,191. Casco Histórico de Vicálvaro
+19. Vicálvaro,192. Valdebernardo
+19. Vicálvaro,193. Valderribas
+19. Vicálvaro,194. El Cañaveral
+20. San Blas-Canillejas,201. Simancas
+20. San Blas-Canillejas,202. Hellín
+20. San Blas-Canillejas,203. Amposta
+20. San Blas-Canillejas,204. Arcos
+20. San Blas-Canillejas,205. Rosas
+20. San Blas-Canillejas,206. Rejas
+20. San Blas-Canillejas,207. Canillejas
+20. San Blas-Canillejas,208. El Salvador
+21. Barajas,211. Alameda de Osuna
+21. Barajas,212. Aeropuerto
+21. Barajas,213. Casco Histórico de Barajas
+21. Barajas,214. Timón
+21. Barajas,215. Corralejos
